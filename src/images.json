@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "order":1,
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/jorge-052/jorge-thumbnail-708x398-0969b05b324143ceb251b36077cff162.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "order":2,
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/carter-a259/carter-a259-thumbnail-708x398-8659e4cd08c24e20b19bd41a9157b252.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "order":3,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/049-abject-testament/049-abject-testament-thumbnail-708x398-19c7e40a31c54174b541fc6f04435abf.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "order":4,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/avery-johnson/avery-johnson-708x398-8d623b5d43f0446b91570ef083b05cea.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "order":5,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/cortana/cortana-thumbnail-708x398-b67d203fccb34ea48d05d5be3558d5fd.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "order":6,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/douglas-042/douglas-042-thumbnail-708x398-e3a589e8d6b943cdab3f7d11e1d65229.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "order":7,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/terrence-hood/lord-hood-708x398-9c35409c821d406587432e0f01d53eea.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "order":8,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/master-chief/master-chief-thumbnail-708x398-cd2e0516ab49409c823985737dfad08b.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "order":9,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/miranda-keyes/miranda-keyes-thumbnail-708x398-108cf74502254a54967268165ecea353.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "order":10,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/prophet-of-truth/prophet-of-truth-thumbnail-708x398-88d0d2c2bf9c4f5684d712e91344b16e.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "order":11,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/tartarus/tartarus-thumbnail-708x398-9d8c741755ac4947ab752525f02cd702.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "order":12,        
+        "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/warden-eternal/warden-eternal-708x398-d6bceaf9d7c240c99cf6706a16644817.jpg",
+        "clicked": false
+    }
+]
